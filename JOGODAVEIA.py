@@ -5,7 +5,7 @@ lista_3 = [6, 7, 8]
 def select():
     print(lista_1)
     print(lista_2)
-    print(lista_4)
+    print(lista_3)
 
 tela_inicial = '''Quando for sua vez, digite o seu caracter (X ou O) e o número correspondente à posição no tabuleiro para realizar sua jogada.
 
